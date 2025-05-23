@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  itmo-ml-lab2-app:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: itmo_ml_lab2
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../app/static:/app/app/static
+    restart: unless-stopped

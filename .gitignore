@@ -1,0 +1,16 @@
+app/static/upload_*
+app/static/*.jpg
+*.h5
+*.hdf5
+*.ckpt
+*.log
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+ENV/
