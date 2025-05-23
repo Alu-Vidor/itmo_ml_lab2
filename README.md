@@ -13,7 +13,7 @@
 
 ```bash
 git clone <ваш-репозиторий>
-cd itmo_ml_lab2
+cd itmo_ml_lab2/docker
 ```
 
 ### 2. Соберите и запустите сервис
