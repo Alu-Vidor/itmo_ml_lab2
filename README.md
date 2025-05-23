@@ -78,6 +78,6 @@ itmo_ml_lab2/
 
 ## 📝 Лицензия
 
-[MIT License](LICENSE)
+[MIT License](LICENSE.txt)
 
 ---
